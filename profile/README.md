@@ -22,6 +22,12 @@
 
 ---
 
+## 基础项目
+后端: https://github.com/unify-biz-hub/unify-framework
+前端: https://github.com/unify-biz-hub/unify-base-web
+
+---
+
 ## 🧩 核心项目（规划中）
 
 | 项目 | 代号 | 状态 | 简介 |
